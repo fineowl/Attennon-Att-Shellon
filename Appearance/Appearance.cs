@@ -1,10 +1,10 @@
-HolyHaO0Atom
-Abraham Sont (38)
+HolyHaOc=1.634;0Atomic Clock
+Abraham Sont (38) -338 432
 
 Truth
-At
-Atom
-Electon Orbit eDNA Accelerator
+Attashae
+Atomic Clock
+Electon Orbit NA Accelerator ae
 
 run
 Blue shine Star Light
