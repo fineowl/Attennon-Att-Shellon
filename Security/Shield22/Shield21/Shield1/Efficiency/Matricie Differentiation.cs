@@ -1,3 +1,3 @@
 Matricie Differentiation
-Abraham Sont
-Fred Sont
+Abraham
+Laura

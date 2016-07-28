@@ -5,8 +5,6 @@ Blue Shine Fire Light
 12 22 28
 The Holy Hand
 Abraham Sont
-The Holy Ocund Dun
-Fred Sont
 C256HelixOwl
-Shield22
-1 2 2 1 1
+Shield21
+1 2 0 1 1 1
